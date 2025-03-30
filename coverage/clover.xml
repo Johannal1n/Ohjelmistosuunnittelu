@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743339223973" clover="3.2.0">
+  <project timestamp="1743339223973" name="All files">
+    <metrics statements="66" coveredstatements="66" conditionals="27" coveredconditionals="27" methods="24" coveredmethods="24" elements="117" coveredelements="117" complexity="0" loc="66" ncloc="66" packages="1" files="4" classes="4"/>
+    <file name="direct-work-calculator.jsx" path="C:\Ohjelmistosuunnittelu\Mitoituslaskuri\src\direct-work-calculator.jsx">
+      <metrics statements="16" coveredstatements="16" conditionals="7" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <line num="5" count="20" type="stmt"/>
+      <line num="6" count="20" type="stmt"/>
+      <line num="9" count="20" type="stmt"/>
+      <line num="10" count="15" type="stmt"/>
+      <line num="20" count="20" type="stmt"/>
+      <line num="21" count="20" type="stmt"/>
+      <line num="22" count="20" type="stmt"/>
+      <line num="23" count="20" type="cond" truecount="5" falsecount="0"/>
+      <line num="24" count="7" type="stmt"/>
+      <line num="26" count="13" type="stmt"/>
+      <line num="30" count="20" type="stmt"/>
+      <line num="31" count="8" type="stmt"/>
+      <line num="34" count="20" type="stmt"/>
+      <line num="35" count="7" type="stmt"/>
+      <line num="39" count="20" type="stmt"/>
+      <line num="43" count="20" type="stmt"/>
+    </file>
+    <file name="direct-work-percent-calculator.jsx" path="C:\Ohjelmistosuunnittelu\Mitoituslaskuri\src\direct-work-percent-calculator.jsx">
+      <metrics statements="16" coveredstatements="16" conditionals="7" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <line num="5" count="19" type="stmt"/>
+      <line num="6" count="19" type="stmt"/>
+      <line num="8" count="19" type="stmt"/>
+      <line num="9" count="14" type="stmt"/>
+      <line num="18" count="19" type="stmt"/>
+      <line num="19" count="19" type="stmt"/>
+      <line num="20" count="19" type="stmt"/>
+      <line num="21" count="19" type="cond" truecount="5" falsecount="0"/>
+      <line num="22" count="6" type="stmt"/>
+      <line num="24" count="13" type="stmt"/>
+      <line num="28" count="19" type="stmt"/>
+      <line num="29" count="8" type="stmt"/>
+      <line num="32" count="19" type="stmt"/>
+      <line num="33" count="6" type="stmt"/>
+      <line num="37" count="19" type="stmt"/>
+      <line num="41" count="19" type="stmt"/>
+    </file>
+    <file name="hours-calculator.jsx" path="C:\Ohjelmistosuunnittelu\Mitoituslaskuri\src\hours-calculator.jsx">
+      <metrics statements="17" coveredstatements="17" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6"/>
+      <line num="5" count="18" type="stmt"/>
+      <line num="6" count="18" type="stmt"/>
+      <line num="9" count="18" type="stmt"/>
+      <line num="10" count="13" type="stmt"/>
+      <line num="21" count="18" type="stmt"/>
+      <line num="22" count="18" type="stmt"/>
+      <line num="23" count="18" type="stmt"/>
+      <line num="24" count="18" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="28" count="14" type="stmt"/>
+      <line num="32" count="18" type="stmt"/>
+      <line num="33" count="9" type="stmt"/>
+      <line num="36" count="18" type="stmt"/>
+      <line num="37" count="4" type="stmt"/>
+      <line num="41" count="18" type="stmt"/>
+      <line num="45" count="18" type="stmt"/>
+    </file>
+    <file name="mitoitus-calculator.jsx" path="C:\Ohjelmistosuunnittelu\Mitoituslaskuri\src\mitoitus-calculator.jsx">
+      <metrics statements="17" coveredstatements="17" conditionals="7" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <line num="5" count="23" type="stmt"/>
+      <line num="6" count="23" type="stmt"/>
+      <line num="9" count="23" type="stmt"/>
+      <line num="10" count="18" type="stmt"/>
+      <line num="19" count="23" type="stmt"/>
+      <line num="20" count="23" type="stmt"/>
+      <line num="21" count="23" type="stmt"/>
+      <line num="22" count="23" type="cond" truecount="5" falsecount="0"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+      <line num="26" count="19" type="stmt"/>
+      <line num="30" count="23" type="stmt"/>
+      <line num="31" count="14" type="stmt"/>
+      <line num="34" count="23" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="39" count="23" type="stmt"/>
+      <line num="43" count="23" type="stmt"/>
+    </file>
+  </project>
+</coverage>
