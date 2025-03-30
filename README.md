@@ -33,6 +33,10 @@ npm test
 npm run test:coverage 
 
 
+Sovelluksen käynnistyskomento:
+npm run dev
+
+
 Paketit:
 React
 React DOM
